@@ -22,3 +22,6 @@ Steps involved in completing the analysis and visualization of the analyzed data
 Data Cleaning, Data Processing, Data Analysis, Data Visualization and dashboard creation.
 
 All the Process completed using only Excel.
+
+The Raw dataset excel file is the raw dataset consisting of all the demo data of road accidents.
+The Road Accident Analysis excel file is the completed analysis project with proper functioning dashboard.
