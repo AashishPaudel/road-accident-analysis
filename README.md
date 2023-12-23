@@ -12,8 +12,11 @@ Client wants us to create a Road Accident Dashboard for year 2021 and 2022 so th
 
 - Monthly trend showing comparison of casualties for Current Year and Previous Year
 
-- Maximum xasualties by Road Type
+- Maximum casualties by Road Type
 
 - Distribution of total casualties by Road Surface
 
 - Relation between Casualties by Area/ Location and by Day/Night
+
+Steps involved in completing the analysis and visualization of the analyzed data:
+Data Cleaning, Data Processing, Data Analysis, Data Visualization and dashboard creation.
