@@ -20,3 +20,5 @@ Client wants us to create a Road Accident Dashboard for year 2021 and 2022 so th
 
 Steps involved in completing the analysis and visualization of the analyzed data:
 Data Cleaning, Data Processing, Data Analysis, Data Visualization and dashboard creation.
+
+All the Process completed using only Excel.
